@@ -1,2 +1,2 @@
 A MERN-Stack website
-Exertracker
+A todo-app like website
